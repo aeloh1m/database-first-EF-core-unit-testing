@@ -3,9 +3,11 @@
 
 This repository demonstrates unit testing techniques for a database-first approach using Entity Framework Core.
 
+![image](https://ibb.co/zZrGKJJ)
+
 ## Overview
 
-The "database-first-EF-core-unit-testing" repository provides an example project showcasing how to write unit tests for a database-first approach in Entity Framework Core. It includes a sample application that interacts with a database using EF Core and demonstrates best practices for testing the data access layer.
+The "database-first-EF-core-unit-testing" repository provides an example project showcasing how to write unit tests for a database-first approach in Entity <br> Framework Core. It includes a sample application that interacts with a database using EF Core and demonstrates best practices for testing the data access layer.
 
 ## Features
 
