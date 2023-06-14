@@ -1,9 +1,8 @@
-```
+
 # Database First EF Core Unit Testing
 
 This repository demonstrates unit testing techniques for a database-first approach using Entity Framework Core.
-
-![image](https://ibb.co/zZrGKJJ)
+![test_success](https://github.com/aeloh1m/database-first-EF-core-unit-testing/assets/88952319/5f34c505-b348-422d-812e-19937b60938e)
 
 ## Overview
 
